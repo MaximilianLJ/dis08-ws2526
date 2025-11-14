@@ -1,4 +1,7 @@
 # Web Scraping
-
-> [!NOTE]
-> Please update this file by copying over the content found at https://gist.github.com/breuert/6853f8d1d8c83bdf85c7be74c75ff401
+- Scraped NHL Data from https://www.scrapethissite.com/pages/forms/
+- Created data.csv with the scraped NHL Data
+- Loaded data.csv into a pandas DataFrame
+- Answered the questions from the task
+  - "How made" the most "wins" in 1990, 2000, and 2010?
+  - How many teams participated in 1991, 2001, and 2011?
